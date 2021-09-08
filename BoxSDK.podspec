@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BoxSDK'
-  s.version          = '1.1.4'
+  s.version          = '6.0.0'
   s.summary          = 'iOS SDK for the Box API'
 
 # This description is used to generate tags and improve search results.
